@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+      
+  
+  <book>
+    <title>Biology: Concepts and Connections</title>
+    <author>Emily Brown</author>
+    <publisher>LMN Publishers</publisher>
+    <publication_year>2019</publication_year>
+    <description/>
+  </book>
+      
+  
+  <book>
+            
+    
+    <title>Economics: Principles and Applications</title>
+            
+    
+    <author>Michael Johnson</author>
+            
+    
+    <publisher>GHI Publications</publisher>
+            
+    
+    <publication_year>2022</publication_year>
+            
+    
+    <description>An introductory economics textbook covering fundamental principles, theories, and their real-world applications.</description>
+          
+  
+  </book>
+      
+  
+  <book>
+            
+    
+    <title>Biology: Concepts and Connections</title>
+            
+    
+    <author>Emily Brown</author>
+            
+    
+    <publisher>LMN Publishers</publisher>
+            
+    
+    <publication_year>2018</publication_year>
+            
+    
+    <description/>
+          
+  
+  </book>
+      
+
+  
+  <book>
+        
+    <title>My Book</title>
+        
+    <author>Me</author>
+        
+    <publisher>Me</publisher>
+        
+    <publication_year>2024</publication_year>
+        
+    <description/>
+      
+  </book>
+  
+  <book>
+    <title>Harry Porter slide</title>
+    <author>Harry Porter</author>
+    <publisher>Harry Porter</publisher>
+    <publication_year>2009</publication_year>
+    <description/>
+  </book>
+</books>
